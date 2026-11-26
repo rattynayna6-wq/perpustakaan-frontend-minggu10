@@ -18,4 +18,4 @@ Base URL: `http://127.0.0.1:8000/api`
 | Anggota | PUT | `/api/members/{id}` | Mengubah anggota | Minggu 12 |
 | Anggota | DELETE | `/api/members/{id}` | Menghapus anggota | Minggu 12 |
 
-## Struktur frontend (services)
+## Struktur frontend (services) 
